@@ -17,7 +17,7 @@ To be implemented:
   
   
   
-Dependencies:
+Dependencies
     *"elements": "^0.6.0"
     *"prop-types": "^15.6.0"
 
