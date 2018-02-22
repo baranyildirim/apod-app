@@ -5,8 +5,8 @@ Fetches a picture from https://apod.nasa.gov/apod/astropix.html, shown on the pi
 Picture source and related information are shown on the information tab.
 
 To be implemented
-*[] Favoriting functionality and favorites tab to store favorited daily pictures. 
-*[] Sharing functionality using native sharing screen.
+* []Favoriting functionality and favorites tab to store favorited daily pictures. 
+* []Sharing functionality using native sharing screen.
   
   
   
