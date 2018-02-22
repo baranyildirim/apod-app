@@ -9,7 +9,7 @@ To be implemented:
   -[] Sharing functionality using native sharing screen.
   
 Dependencies:
-    - "elements": "^0.6.0",
+    - "elements": "^0.6.0", 
     - "prop-types": "^15.6.0",
     - "react": "16.2.0",
     - "react-native": "^0.53.0",
