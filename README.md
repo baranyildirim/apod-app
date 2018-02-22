@@ -2,6 +2,7 @@
 Mobile application built with React-Native.
 
 Fetches a picture from https://apod.nasa.gov/apod/astropix.html, shown on the picture tab.
+
 Picture source and related information are shown on the information tab.
 
 To be implemented
